@@ -9,7 +9,7 @@ Results: The point prevalence of any fibrotic condition was 21.46%. In total, 6.
 Conclusion: The key finding was that fibrotic multimorbidity affects approximately 1 in 16 people.
 
 In addition to the published manuscript and supplementary materials I would like to provide the below table which demonstrates the location fibrotic conditions were diagnosed, this table explicitly uses the information of people who had died. 
-Therefore, it differs from Supplementary table 3 which contains the locations fibrotic conditions were diagnosed in the total cohort, however as this contained people who were still alive it is believed that the information presented in Figure 2 (also below) is more representative of the proportion of people who receive diagnoses (alowing for people to be diagnosed post mortem).
+Therefore, it differs from Supplementary table 3 which contains the locations fibrotic conditions were diagnosed in the total cohort, however as this contained people who were still alive it is believed that the information presented in Figure 2is more representative of the proportion of people who receive diagnoses (alowing for people to be diagnosed post mortem).
 | Fibrotic Condition | Location  | Percentage |
 |--------------------|-----------|------------|
 |                    |           |            |
